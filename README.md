@@ -2,11 +2,16 @@
 
 ### 👋 About Me
 
-Hey there! I'm a seasoned Full Stack Developer, passionate about crafting exceptional user interfaces and building robust backend solutions. I enjoy learning new things from different fields and experimenting with new ideas. I’m also really interested in reading books, teaching, and building my own digital products.
+Hey! I'm a **self-taught developer from Pakistan**. I started with **full-stack web dev** (React, Next.js) and shifted into **systems programming** (C, Assembly), **AI agents** and **game development with Unity**. I love learning how things work under the hood and building from scratch
+
+When I’m not coding, I’m usually **reading**, **teaching** or **experimenting with new ideas**.
 
 ### 🚀 What I Do
 
-I create digital products for different businesses, focusing on easy-to-use SaaS solutions that help people work better.
+I build **AI agents**, mess with **low-level code** and create **interactive experiences** in Unity.  
+My work is **hands-on, self-driven** and focused on **real-world impact**.  
+**No shortcuts — just curiosity and code.**
+
 
 ### 📧 Contact:
 

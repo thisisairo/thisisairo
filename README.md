@@ -13,11 +13,6 @@ My work is **hands-on, self-driven** and focused on **real-world impact**.
 **No shortcuts — just curiosity and code.**
 
 
-### 📧 Contact:
-
-
-- **Email:** [null.mmw@gmail.com](mailto:null.mmw@gmail.com)  
-- **Discord:** airodump_ng
 
 <h2> Skills <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk0amVkZDZmdGRkc2p3ODA5dnl4ZHkzdzB4ZXBxZzduaWxxdTEzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YIoRLftPZQCFSQXIzp/giphy.gif" width=40px></h2>
 

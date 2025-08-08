@@ -1,4 +1,7 @@
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNpNmE4NzBhbDVrc2Q1djlkeXVkemw0YXBvZHZ2MmNhcnRtcGgwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V3CobDGzCpQ8R4CqIG/giphy.gif
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/846a5877-517a-48d2-86b7-fdfb57b0dcb4" style="width: 80%;" />
+</p>
 
 ### 👋 About Me
 

@@ -3,18 +3,11 @@
 <img src="https://github.com/user-attachments/assets/846a5877-517a-48d2-86b7-fdfb57b0dcb4" style="width: 80%;" />
 </p>
 
-### 👋 About Me
+👋 About Me
 
-Hey! I'm a **self-taught developer from Pakistan**. I started with **full-stack web dev** (React, Next.js) and shifted into **systems programming** (C, Assembly), **AI agents** and **game development with Unity**. I love learning how things work under the hood and building from scratch
+Hey! I’m a self-taught developer from Pakistan. I started out with full-stack web development (React, Next.js) and later got into systems programming (C, Assembly), AI agents, and game development. I enjoy digging into how things work under the hood and building things from scratch.
 
-When I’m not coding, I’m usually **reading**, **teaching** or **experimenting with new ideas**.
-
-### 🚀 What I Do
-
-I build **AI agents**, mess with **low-level code** and create **interactive experiences** in Unity.  
-My work is **hands-on, self-driven** and focused on **real-world impact**.  
-**No shortcuts — just curiosity and code.**
-
+When I’m not coding, you’ll usually find me reading, teaching, or trying out new ideas.
 
 
 <h2> Skills <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk0amVkZDZmdGRkc2p3ODA5dnl4ZHkzdzB4ZXBxZzduaWxxdTEzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YIoRLftPZQCFSQXIzp/giphy.gif" width=40px></h2>

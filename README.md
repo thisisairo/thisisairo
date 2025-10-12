@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/846a5877-517a-48d2-86b7-fdfb57b0dcb4" style="width: 80%;" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRkMzF0YmluM2pycnRvNWZ2Mmc5MGN1czlmNjhneWowbHZtbTZyZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o6S51npJYQM48/giphy.gif" style="width: 80%;" />
 </p>
 
 👋 About Me
@@ -19,12 +19,13 @@ When I’m not coding, you’ll usually find me reading, teaching, or trying out
 <h2> GitHub Stats <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5jZGk1bXZhOXd5dXEzZ2RudGVnYXBwYW9lMDE1ZXJuNmNxbnhteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.gif" width=48px></h2>
 <p align="left">
   <a href="https://github.com/Mohsin-mw">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisisairo&rank_icon=percentile&show_icons=true&theme=algolia&show=reviews&border_radius=8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisisairo&theme=dark&show_icons=true&hide_border=true&count_private=true" />
    
    
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisairo&theme=algolia&layout=compact&count-private=true&hide=jupyter%20notebook,Vue,Blade,HTML" />
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisairo&theme=dark&hide_border=true" />
   </a>
 </p>
+
 
 <h2> Digital Badges <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDYxY2hsdW51Mmk1Y3I5aXQ2bmIxNDM1eG11aGh1d3p3aGFrNGs1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7xiy8jp0OiGSzcokZL/giphy.gif" width=40px></h2>
 <p align="left">

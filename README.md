@@ -5,7 +5,7 @@
 
 👋 About Me
 
-Hey! I’m a self-taught developer from Pakistan. I started out with full-stack web development (React, Next.js) and later got into systems programming (C, Assembly), AI agents, and game development. I enjoy digging into how things work under the hood and building things from scratch.
+Hey! I’m a self-taught develope. I started out with full-stack web development (React, Next.js) and later got into systems programming (C, Assembly), AI agents, and game development. I enjoy digging into how things work under the hood and building things from scratch.
 
 When I’m not coding, you’ll usually find me reading, teaching, or trying out new ideas.
 

@@ -1,13 +1,12 @@
 
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRkMzF0YmluM2pycnRvNWZ2Mmc5MGN1czlmNjhneWowbHZtbTZyZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o6S51npJYQM48/giphy.gif" style="width: 80%;" />
-</p>
+<!-- <p align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3A2OGZvbHZ4dW15emh5ZXVsbDZ4cDB0bnpieTI1NmNlMHo0enBhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" style="width: 80%;" />
+</p> -->
 
 👋 About Me
 
-Hey! I’m a self-taught develope. I started out with full-stack web development (React, Next.js) and later got into systems programming (C, Assembly), AI agents, and game development. I enjoy digging into how things work under the hood and building things from scratch.
-
-When I’m not coding, you’ll usually find me reading, teaching, or trying out new ideas.
+**Self-taught developer breaking things to rebuild them better**</br>
+When I’m not coding, you’ll usually find me reading, teaching or trying out new ideas.
 
 
 <h2> Skills <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk0amVkZDZmdGRkc2p3ODA5dnl4ZHkzdzB4ZXBxZzduaWxxdTEzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YIoRLftPZQCFSQXIzp/giphy.gif" width=40px></h2>

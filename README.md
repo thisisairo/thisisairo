@@ -17,7 +17,7 @@ When I’m not coding, you’ll usually find me reading, teaching or trying out 
 
 <h2> GitHub Stats <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5jZGk1bXZhOXd5dXEzZ2RudGVnYXBwYW9lMDE1ZXJuNmNxbnhteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.gif" width=48px></h2>
 <p align="left">
-   <a href="https://github.com/Ahsan-mw">
+   <a href="https://github.com/thisisairo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisisairo&rank_icon=percentile&show_icons=true&theme=algolia&show=reviews&border_radius=8" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisairo&theme=algolia&layout=compact&count-private=true&hide=jupyter%20notebook,Vue,Blade,HTML" />
   </a>

@@ -32,7 +32,7 @@ When I’m not coding, you’ll usually find me reading, teaching or trying out 
 
 <h2> Tools</h2>
 <p align="center">
-  <a href="https://chrome.google.com/webstore/devconsole/1a50ba1d-669c-4581-bdc0-ad8f3dafa471">
+  <a href="https://chromewebstore.google.com/detail/quiettube/jihbabjlelmemelnknaofgebfaphbhnp">
     <img width="342" height="111" alt="Image" src="https://github.com/user-attachments/assets/0d625f53-42c2-40a7-a0ec-8b659196ef72" />
   </a>
 </p>

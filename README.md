@@ -6,8 +6,9 @@
 <h2> 👋 About Me </h2>
 
 
-**Self-taught developer breaking things to rebuild them better**</br>
-When I’m not coding, you’ll usually find me reading, teaching or trying out new ideas.
+Building software, systems, and ideas that solve real problems.
+Interested in technology, design, and creating things that scale.
+
 
 
 <h2> Skills</h2>

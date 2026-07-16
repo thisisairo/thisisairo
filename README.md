@@ -7,7 +7,7 @@
 
 
 Building software, systems, and ideas that solve real problems.
-Interested in technology, design, and creating things that scale.
+Interested in technology, design and creating things that scale.
 
 
 
